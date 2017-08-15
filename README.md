@@ -1,4 +1,7 @@
-###This is a test, thanks to the CS department of Cornell, and all the files are downloaded from https://www.cs.cornell.edu/~kilian/code/code.html
+### Let's do it. Xiu
+
+
+This is a test, thanks to the CS department of Cornell, and all the files are downloaded from https://www.cs.cornell.edu/~kilian/code/code.html
 
 
 Large Margin Nearest Neighbors
